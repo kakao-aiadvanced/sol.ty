@@ -1,0 +1,15 @@
+Q: Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+A_model:
+Let's think step by step:
+
+Janet's ducks lay 16 eggs per day.
+She uses 3 eggs for breakfast and 4 eggs for muffins, so she uses 3 + 4 = 7 eggs in total.
+Thus, she has 16 - 7 = 9 eggs remaining to sell at the farmers' market.
+She makes $2 per fresh duck egg, so she makes 9 * $2 = $18 every day at the farmers' market.
+
+Therefore, Janet makes $18 every day at the farmers' market.
+A:
+Janet sells 16 - 3 - 4 = <<16-3-4=9>>9 duck eggs a day.
+She makes 9 * 2 = $<<9*2=18>>18 every day at the farmer’s market.
+#### 18
+

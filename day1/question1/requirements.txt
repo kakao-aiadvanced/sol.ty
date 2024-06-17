@@ -1,0 +1,6 @@
+llmlingua
+openai==0.28
+datasets
+ipykernel
+llmlingua
+tenacity

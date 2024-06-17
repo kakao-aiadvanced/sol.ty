@@ -1,0 +1,5 @@
+Your role is as follows:
+1. Get m numbers (1~n) 
+2. Sort numbers in ascending order.
+
+Ready.
