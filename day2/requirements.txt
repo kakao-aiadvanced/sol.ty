@@ -1,0 +1,5 @@
+langchain_community
+bs4
+langchain-openai
+langchain-chroma
+sentence_transformers
