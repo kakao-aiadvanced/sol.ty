@@ -11,5 +11,6 @@ langchain-text-splitters
 langchain-nomic 
 langchainhub
 sentence_transformers
+streamlit
 tavily-python
-tiktoken 
+tiktoken
