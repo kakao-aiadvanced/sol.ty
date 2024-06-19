@@ -1,0 +1,15 @@
+arxiv
+bs4
+chromadb 
+gpt4all
+langgraph
+langchain
+langchain_community
+langchain-chroma
+langchain-openai
+langchain-text-splitters
+langchain-nomic 
+langchainhub
+sentence_transformers
+tavily-python
+tiktoken 
